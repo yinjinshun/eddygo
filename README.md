@@ -1,0 +1,2 @@
+# eddygo
+go package
